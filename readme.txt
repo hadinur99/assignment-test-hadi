@@ -7,3 +7,6 @@ Soal No 1, 2 & 3
 		1.Copy/Paste code to console browser
 		2.Enter
 		3.Hasil dapat dilihat di page dan console browser
+
+	Atau bisa di jalankan di JavaScript Compiler Online
+	https://jsfiddle.net/
